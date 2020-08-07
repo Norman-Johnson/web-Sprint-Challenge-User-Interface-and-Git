@@ -119,7 +119,9 @@ p {
     }
     .boxes {
         display:flex;
-        flex-flow:wrap;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        
         
     }
 .box1 {
