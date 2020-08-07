@@ -28,6 +28,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+header{
+display:flex;
+
+justify-content: space-evenly;
+}
 body {
 	line-height: 1;
 }
@@ -110,6 +115,44 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    
+    }
+    .boxes {
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        
+        
+    }
+.box1 {
+background-color: teal;
+}
+.box2 {
+background-color: gold;
+}
+.box3 {
+    background-color: cadetblue;
+}
+.box4 {
+    background-color: coral;
+}
+.box5 {
+    background-color: crimson;
+}
+.box6 {
+    background-color: forestgreen;
+}
+.box7 {
+    background-color: darkorchid;
+}
+.box8 {
+    background-color: hotpink;
+}
+.box9 {
+    background-color: indigo;
+}
+.box10 {
+    background-color: dodgerblue;
 }
 
 .bottom-content {

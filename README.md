@@ -105,3 +105,17 @@ After finishing your required elements, you can push your work further. These go
 * [ ] refactor your HTML, make sure it's indented properly, clean, readable, you have written appropriate comments where necessary and that all attributes (required and encouraged) are filled out correctly.  
 * [ ] Ensure your CSS is organized and readable, you've seperated your code by section and that you are using descriptive class names and adding classes in your HTML where styles repeat rather than rewrting the same styles over again
 * [ ] Use a flex item property of your choice when laying out a section of your website, ensure you can explain how and why you've used this property 
+
+
+ANSWERS
+1. Semantic HTML describes what the element is.
+
+2. Display Block takes up the whole page and pushes everything to the next line.  It can have a height abd width.
+
+    Display Inline only takes up the space needed, doesn't push to the next line, and can not have a width or height.
+
+3. Margin, padding, border, and content.
+
+4. The main axis.
+
+5. Git provides the ability for multiple team amembers to work on the same code without damaging another's work.  This also makes it ppossible to collaborate and bring fresh ideas and possibly speeds up completion of the project.
