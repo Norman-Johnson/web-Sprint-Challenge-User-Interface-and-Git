@@ -28,6 +28,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+header{
+
+}
 body {
 	line-height: 1;
 }
@@ -143,4 +146,34 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.box1{
+    background-color: teal;
+}
+.box2{
+    background-color: gold;
+}
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: coral;
+}
+.box5{
+    background-color: crimson;
+}
+.box6{
+    background-color: forestgreen;
+}
+.box7{
+    background-color: darkorchid;
+}
+.box8{
+    background-color: hotpink;
+}
+.box9{
+    background-color: indigo;
+}
+.box10{
+    background-color: dodgerblue;
 }
